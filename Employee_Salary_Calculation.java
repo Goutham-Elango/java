@@ -1,3 +1,4 @@
+//java
 import java.util.*;
 import java.io.*;
 class program1{

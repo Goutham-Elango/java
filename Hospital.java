@@ -139,3 +139,5 @@ class Hospital{
         }while((ch=='y')||(ch=='Y'));       
     }
 }
+
+//edited
